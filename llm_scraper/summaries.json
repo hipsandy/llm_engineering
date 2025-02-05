@@ -1,0 +1,58 @@
+{
+    "result": [
+        {
+            "url": "https://www.turismojerez.com/en/",
+            "data": {
+                "activities": {
+                    "activities": [
+                        {
+                            "name": "Flamenco",
+                            "type": "culture"
+                        },
+                        {
+                            "name": "Event Hosting",
+                            "type": "leisure"
+                        },
+                        {
+                            "name": "City Tours",
+                            "type": "leisure"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "url": "https://turismovejer.es/en/home/",
+            "data": {
+                "activities": {
+                    "activities": [
+                        {
+                            "name": "Explore Vejer de la Frontera",
+                            "type": "culture"
+                        },
+                        {
+                            "name": "Stroll along cobblestone streets",
+                            "type": "leisure"
+                        },
+                        {
+                            "name": "Marvel at Arab-Andalusian heritage",
+                            "type": "culture"
+                        },
+                        {
+                            "name": "Relax on Playa del Palmar beach",
+                            "type": "leisure"
+                        },
+                        {
+                            "name": "Explore trails in natural landscapes",
+                            "type": "sports"
+                        },
+                        {
+                            "name": "Experience rich history",
+                            "type": "culture"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
